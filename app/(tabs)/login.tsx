@@ -6,7 +6,7 @@ export default function Login(){
            <TextInput style={styles.input} />
            <TextInput style={styles.input} />
            <TouchableOpacity style={styles.botao}>
-               <Text>Login</Text>
+               <Text>Login Agora</Text>
            </TouchableOpacity>
        </View> 
     );
